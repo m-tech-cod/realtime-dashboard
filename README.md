@@ -15,7 +15,7 @@ git clone https://github.com/m-tech-cod/realtime-dashboard.git
 cd realtime-dashboard
 npm install
 npm run dev
-Open http://localhost:5173
+Open http://localhost:5173/
 
 ---
 
