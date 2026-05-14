@@ -11,7 +11,7 @@ https://realtime-dashboard-873a.vercel.app/
 ## Setup & Installation
 
 ```bash
-git clone https://github.com/m-tech-cod/realtime-dashboard.git
+git clone https://github.com/m-tech-cod/realtime-dashboard
 cd realtime-dashboard
 npm install
 npm run dev
